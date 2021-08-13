@@ -5,7 +5,7 @@
 /*:
  * @target MZ
  * @plugindesc Allows you to customise the HP/MP bars etc.
- * @author Fomar0153
+ * @author Gerald
  *
  * @param Display Max Value
  * @type boolean
