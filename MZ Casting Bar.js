@@ -5,7 +5,7 @@
 /*:
  * @target MZ
  * @plugindesc Adds a casting bar when using TPB.
- * @author Fomar0153
+ * @author Gerald
  *
  * @param Casting Bar Colour 1
  * @type integer
